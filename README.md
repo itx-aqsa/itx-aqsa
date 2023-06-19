@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aqsa Mahmood</h1>
-- 🌱 I’m currently learning **Web Development**
+
+- 🔭 I’m currently a <b>3rd year</b> student at the <b>University of Engineering & Technology</b> Lahore.
+
+- 🌱 I’m currently learning <b>Web Development</b>
 
 - 📫 How to reach me **mahmoodaqsa77@gmail.com**
 
