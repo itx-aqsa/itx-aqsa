@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Aqsa Mahmood</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itx-aqsa&label=Profile%20views&color=0e75b6&style=flat" alt="itx-aqsa" /> </p>
-
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **mahmoodaqsa77@gmail.com**
